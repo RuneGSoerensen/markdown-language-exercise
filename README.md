@@ -26,6 +26,7 @@
 ```
 
 ![Alt tekst skal være her](https://images.unsplash.com/photo-1707327259268-2741b50ef5e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8)
+*Det her er et billede af en ø*
 
 > "Life is meaningless, but it's up to us to give it meaning." - Albert Camus
 
